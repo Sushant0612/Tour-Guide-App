@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="red_fort">Red Fort</string>
+    <string name="red_fort_address">Chadni Chowk, New Delhi</string>
+    <string name="red_fort_desc">The Red Fort (Hindi: लाल क़िला, Urdu: لال قلعہ‬‎) is a historic fort in the city of
+        Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years,
+        until 1856. It is located in the center of Delhi and houses a number of museums. In addition to
+
+        accommodating the emperors and their households, it was the ceremonial and political center of the
+        Mughal state and the setting for events critically impacting the region. </string>
+
+    <string name="akshardham">Akshardham</string>
+    <string name="akshardham_address">Pandav Nagar, New Delhi</string>
+    <string name="akshardham_desc">Akshardham or Swaminarayan Akshardham complex is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India.[1][2] Also referred to as Akshardham Temple or Swaminarayan Akshardham, the complex displays millennia of traditional Hindu and Indian culture, spirituality, and architecture</string>
+
+    <string name="india_gate">India Gate</string>
+    <string name="india_gate_address">RajPath Marg, New Delhi</string>
+    <string name="india_gate_desc">India Gate is a memorial to 70,000 soldiers of the Indian Army who died in the period 1914–21 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the Third Anglo-Afghan War. 13,300 servicemen\'s names, including some soldiers and officers from the United Kingdom, are inscribed on the gate.[1][2] The India Gate, even though a war memorial, evokes the architectural style of the triumphal arch like the Arch of Constantine, outside the Colosseum in Rome, and is often compared to the Arc de Triomphe in Paris, and the Gateway of India in Mumbai. It was designed by Sir Edwin Lutyens.[</string>
+
+    <string name="lodhi_garden">Lodhi Garden</string>
+    <string name="lodhi_garden_address">Lodhi Estate, New Delhi</string>
+    <string name="lodhi_garden_desc">Lodi Gardens or Lodhi Gardens is a city park situated in New Delhi, India. Spread over 90 acres (360,000 m2),[1] it contains, Mohammed Shah\'s Tomb, Tomb of Sikandar Lodi, Shisha Gumbad and Bara Gumbad,[2] architectural works of the 15th century by Lodis- who ruled parts of northern India and Punjab and Khyber Pakhtunkhwa province of modern-day Pakistan, from 1451 to 1526. The site is now protected by the Archaeological Survey of India (ASI).</string>
+
+    <string name="lotus_temple">Lotus Temple</string>
+    <string name="lotus_temple_address">Kalkaji, New Delhi</string>
+    <string name="lotus_temple_desc">The Lotus Temple, located in Delhi, India, is a Bahá\'í House of Worship that was dedicated in December 1986, costing $10 million.[1] Notable for its flowerlike shape, it has become a prominent attraction in the city. Like all Bahá\'í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad "petals" arranged in clusters of three to form nine sides,[2] with nine doors opening onto a central hall with a height of slightly over 40 metres[3] and a capacity of 2,500 people.</string>
+
+    <string name="jama_masjid">Jama Masjid</string>
+    <string name="jama_masjid_address">Chadni Chowk,New Delhi</string>
+    <string name="jama_masjid_desc">Jama Masjid of Delhi, Jama Masjid also spelled Jāmiʿ Masjid, Jama Masjid of Delhi also called Masjid-i Jahānnumā, mosque in Old Delhi, India, constructed in 1650–56 by the Mughal emperor Shah Jahān, a noted patron of Islamic architecture whose most famous work is the Taj Mahal, in Agra. Jama Masjid, now the second largest mosque on the Indian subcontinent, is also an impressive example of Mughal architecture.</string>
+
+    <string name="old_fort">Old Fort</string>
+    <string name="old_fort_address">Mathura Road, New Delhi</string>
+    <string name="old_fort_desc">Purana Qila (Old Fort) is one of the oldest forts in Delhi. The present citadel at
+        Purana Qila was believed to have been built under Sher Shah Suri. But according to ASI\'s Vasant Swarnkar, the
+        excavations — the last one was in 2013-14 — point to traces from the 3rd century BC, the pre-Mauryan period.
+        The first two rounds of excavations — in 1954-55 and 1969-72 — by then ASI director, BB Lal, had unearthed traces of
+        PGW under the mound. At the time, Lal had embarked on a mission to excavate various sites mentioned in the Mahabharata text and
+        claimed to have found such traces as a common feature at all those sites.</string>
+
+    <string name="qutub_minar">Qutub Minar</string>
+    <string name="qutub_minar_address">Mehrauli, New Delhi</string>
+    <string name="qutub_minar_desc">The Qutub Minar (Hindi: कुतुब मिनार, Urdu: قطب مینار‬‎) is a minaret that forms a part of the Qutab complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.[1][2] Qutub Minar is a 73-metre (239.5 feet) tall tapering tower of five storeys, with a 14.3 metres (47 feet) base diameter, reducing to 2.7 metres (9 feet) at the peak.[3] It contains a spiral staircase of 379 steps.[4] Its design is thought to have been based on the Minaret of Jam, in western Afghanistan.</string>
+
+    <string name="humayun_tomb">Humayun\'s Tomb</string>
+    <string name="humayun_tomb_address">Nizamuddin East, New Delhi</string>
+    <string name="humayun_tomb_desc">Humayun\'s tomb (Maqbaera e Humayun) is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress Bega Begum (also known as Haji Begum), in 1569-70, and designed by Mirak Mirza Ghiyas, a Persian architect chosen by her.It was the first garden-tomb on the Indian subcontinent,[10] and is located in Nizamuddin East, Delhi, India, close to the Dina-panah Citadel, also known as Purana Qila (Old Fort), that Humayun founded in 1533. It was also the first structure to use red sandstone at such a scale.The tomb was declared a UNESCO World Heritage Site in 1993,[10] and since then has undergone extensive restoration work, which is complete.</string>
+
+    <string name="jantar_mantar">Jantar Mantar</string>
+    <string name="jantar_mantar_address">Cannaught Place, New Delhi</string>
+    <string name="jantar_mantar_desc">Jantar Mantar is located in the modern city of New Delhi. It consists of 13 architectural astronomy instruments. The site is one of five built by Maharaja Jai Singh II of Jaipur, from 1723 onwards, as he was given by Mughal emperor Muhammad Shah the task of revising the calendar and astronomical tables. There is a plaque fixed on one of the structures in the Jantar Mantar observatory in New Delhi that was placed there in 1910 mistakenly dating the construction of the complex to the year 1710. Later research, though, suggests 1724 as the actual year of construction.</string>
+
+    <string name="indian_accent">Indian Accent</string>
+    <string name="indian_accent_address">Lodhi Road, New Delhi</string>
+    <string name="indian_accent_desc">Indian Accent showcases inventive Indian cuisine by complementing the flavours and traditions of India with global ingredients and techniques.
+        The only restaurant in India to feature in the World’s 50 Best Restaurants 2017,
+        Indian Accent has been awarded the San Pellegrino Best Restaurant Award in India by Asia’s 50
+        Best Restaurants 2017 for the third consecutive year. It has also been rated as the No.1
+        restaurant in India by TripAdvisor for 2014, 2015, 2016 and 2017.</string>
+
+    <string name="zaffran">Zaffran</string>
+    <string name="zaffran_address">D-26/28, Hotel Palace Heights, Connaught Place, New Delhi</string>
+    <string name="zaffran_desc">Opening hours · Open now\n
+Today  12Noon to 3:30PM, 7PM to 12Midnight</string>
+
+    <string name="oriental_octopus">Oriental Octopus</string>
+    <string name="oriental_octopus_address"> 5th Floor, India Habitat Centre, Lodi Road, New Delhi, Delhi 110003</string>
+
+
+    <string name="dakshin">Dakshin</string>
+    <string name="dakshin_address">District Centre, Sector 6, Saket, New Delhi, Delhi 110017</string>
+
+    <string name="baluchi">Baluchi</string>
+    <string name="baluchi_address">2nd Floor, Barakhamba Rd, Fire Brigade Lane, Connaught Place, New Delhi, Delhi 110001</string>
+
+    <string name="delhi_pavilion">Delhi Pavilion</string>
+    <string name="delhi_pavilion_address">District Centre, Saket, New Delhi, Delhi 110017</string>
+
+    <string name="akira_back">Akira Back</string>
+    <string name="akira_back_address">J W Marriott Hotel, Aerocity, Asset Area 4, Indira Gandhi International Airport, New Delhi, Delhi 110037</string>
+
+    <string name="jamavar">Jamavar</string>
+    <string name="jamavar_address">The Leela Palace, New Moti Bagh, New Delhi, Delhi 110023</string>
+
+    <string name="tamra">Tamra Resturant</string>
+    <string name="tamra_address">19, Ashoka Road, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+
+    <string name="lodi_the_garden">Lodi-The Garden</string>
+    <string name="lodi_the_garden_address">Lodhi Road, Opp. Mausam Bhavan, New Delhi, Delhi 110003</string>
+
+    <string name="national_gandhi_museum">National Gandhi Museum</string>
+    <string name="national_gandhi_museum_address">Raj Ghat, New Delhi</string>
+    <string name="national_gandhi_museum_desc">The National Gandhi Museum or Gandhi Memorial Museum is a museum located in New Delhi, India showcasing the life and principles of Mahatma Gandhi. The museum first opened in Mumbai, shortly after Gandhi was assassinated in 1948.</string>
+    <string name="description">Description</string>
+    <string name="name_var">placeName</string>
+    <string name="address_var">placeAddress</string>
+    <string name="desc_var">placeDescription</string>
+    <string name="img_var">placeImage</string>
+    <string name="sights">Sights</string>
+    <string name="restaurants">To eat</string>
+    <string name="museums">Museums</string>
+
+    <string name="national_gallery_of_modern_art">National Gallery of Modern Art</string>
+    <string name="national_gallery_of_modern_art_address">Jaipur House, India Gate | Ministry of Culture, Govt. of India, New Delhi</string>
+    <string name="national_gallery_of_modern_art_desc">The National Gallery of Modern Art (NGMA) is the premier art gallery under Ministry of Culture, Government of India.[1] The main museum at Jaipur House in New Delhi was established on March 29, 1954 by the Government of India, with subsequent branches at Mumbai and Bangalore. Its collection of more than 14,000 works includes works by artists such as Thomas Daniell, Raja Ravi Verma, Abanindranath Tagore, Rabindranath Tagore, Gaganendranath Tagore, Nandalal Bose, Jamini Roy, Amrita Sher-Gil as well as foreign artists, apart from sculptures by various artists.</string>
+
+    <string name="indira_gandhi_memorial_museum">Indira Gandhi Memorial Museum</string>
+    <string name="indira_gandhi_memorial_museum_address">Safdarjung Road, New Delhi</string>
+    <string name="indira_gandhi_memorial_museum_desc">Indira Gandhi Memorial Museum was the residence of the former Prime Minister of India. It was later converted into a museum. One can see the collection of rare photographs of the Nationalist movement, the personal moments of the Nehru-Gandhi family and her childhood.</string>
+
+
+    <string name="national_rail_museum">National Rail Museum</string>
+    <string name="national_rail_museum_address">Chanakyapuri, New Delhi 110002</string>
+    <string name="national_rail_museum_desc">The National Rail Museum is a museum in Chanakyapuri, New Delhi which focuses on the rail heritage of India it opened on the 1 February 1977. It is located in over 10 acres (40,000 m2) of land with both indoor and outdoor exhibits. A toy train offers rides around that site on regular days.Museum remains open from 10.00 am to 5.00 pm (Last entry 4.30 pm, last 1:8 toy train and joy train round at 4:45pm) Tuesday to Sunday. Museum remains closed on every Monday and National Holidays. Apart from vast outdoor and state of the art Indoor Gallery. It is now equipped with 1:8 scale train, Diesel simulator, Steam Simulator, Coach Simulator and many more.</string>
+    <string name="museo_armani_url">https://www.armanisilos.com/en_WW/</string>
+
+    <string name="crafts_museum">Crafts Museum</string>
+    <string name="crafts_museum_address">Bhairon Rd, New Delhi 110001</string>
+    <string name="crafts_museum_desc">The National Handicrafts and Handlooms Museum (NHHM) commonly known as National Crafts Museum in New Delhi is one of the largest crafts museums in India.
+        It is run by the Ministry of Textiles, Government of India. The museum is situated on the corner of the Pragati Maidan, facing the Purana Qila complex.It was set up over a period of 30 years starting in the 1950s and 60s by the efforts of the renowned freedom fighter late Smt Kamaladevi Chattopadhyay, when the area was envisaged as an ethnographic space where craftsmen from various parts of India would come in to work towards preservation of various traditional arts and crafts. By the 1980s it already had a substantial collection, and in time the museum space gradually evolved and transformed into its present shape.</string>
+
+    <string name="national_museum">National Museum</string>
+    <string name="national_museum_address">Janpath, New Delhi 110011</string>
+    <string name="national_museum_desc">The National Museum in New Delhi, also known as the National Museum of India, is one of the largest museums in India. Established in 1949, it holds variety of articles ranging from pre-historic era to modern works of art. It functions under the Ministry of Culture, Government of India. The museum is situated on the corner of Janpath and Maulana Azad Road.[1] The blue–print of the National Museum had been prepared by the Gwyer Committee set up by the Government of India in 1946. The museum has around 200,000 works of art, both of Indian and foreign origin, covering over 5,000 years.</string>
+
+    <string name="shankars_international_dolls_museum">Shankar\'s International Dolls Museum</string>
+    <string name="shankars_international_dolls_museum_address">4 Bahadur Shah Zafar Marg, New Delhi 110002</string>
+    <string name="shankars_international_dolls_museum_desc">The International Dolls Museum is a large collection of dolls in Delhi, India. It was set up by K. Shankar Pillai, a political cartoonist. Housed in the Children\'s Book Trust building on Bahadur Shah Zafar Marg, accessed through a separate entrance, a winding staircase, leading up to a foyer. The museum has a floor area of 5,184.5 sq ft (481.66 m2) and occupies a portion of the first floor.</string>
+
+    <string name="indian_air_force_museum">Indian Air Force Museum</string>
+    <string name="indian_air_force_museum_address">Palam Road, New Delhi</string>
+    <string name="indian_air_force_museum_desc">The Museum entrance features an indoor display gallery that contains historic photographs, memorabilia, uniforms and personal weapons of the Indian Air Force from its inception in 1932. The gallery leads to a hangar exhibiting small aircraft and Air Force inventory including anti-aircraft guns, vehicles and ordnance. Larger aircraft are exhibited outside the hangar. This outdoor gallery contains aircraft that also displays several war trophies, radar equipment and captured enemy vehicles.
+        The Vintage Aircraft Flight services some rare aircraft and maintains them in an airworthy condition. These aircraft are not open to the general public. Large transport aircraft are stored on the apron of the airbase due to lack of space. These aircraft are displayed only on the annual Air Force Day. The museum has a small souvenirs shop.</string>
+
+    <string name="vedic_expo">Vedic Expo</string>
+    <string name="vedic_expo_address">Main Road, New Delhi 110065</string>
+    <string name="vedic_expo_desc">The Vedic cultural museum is one of its kind in India which aims to promote the timeless Vedic wisdom in modern day context, educate people about the history of India especially regarding the two epics Ramayana and Mahabharata.
+        The museum shows various aspects of the Vedic philosophical and cultural heritage, both through simple exhibits and dioramas and through sophisticated robotic shows. These shows were designed primarily by the devotees from around the world.
+ </string>
+
+    <string name="mumtaz_mahal">Mumtaz Mahal (Jewel Palace)</string>
+    <string name="mumtaz_mahal_address">The Red Fort | Inside Rang Mahal or The Color Palace, New Delhi 110002</string>
+    <string name="mumtaz_mahal_desc">The Mumtaz Mahal (Hindustani: ممتاز محل, मुमताज़ महल, literally Jewel Palace) is located in the Red Fort, Delhi.
+The Mumtaz Mahal is one of the six main palaces that were situated facing the Yamuna River. All six palaces were connected by the Stream of Paradise (Nahr-i-Bishisht), a waterway which ran through them. At one time the Chhoti Baithak, which no longer exists, was located just to the north of the Mumtaz Mahal.
+The building was constructed with white marble in the lower half of its walls and pillars. It consists of six apartments divided by arched piers and was originally painted with floral decorations on the interior. The Mumtaz Mahal was part of the Zenana.[1] After the British occupied the fort, it was used as a prison camp.
+The building currently houses an exhibition of the Red Fort Archaeological Museum, consisting largely of exhibits of the Mughal period.</string>
+    <string name="coffee">Coffee</string>
+
+    <string name="rose_cafe">Rose Cafe</string>
+    <string name="rose_cafe_address">2, Westend Marg, Saiyad Ul Ajaib Extension, Behind Saket Metro Station, New Delhi, Delhi </string>
+    <string name="rose_cafe_desc">Opening hours\n
+Today  12Noon to 9PM</string>
+
+    <string name="kunzum_travel_cafe">Kunzum Travel Cafe</string>
+    <string name="kunzum_travel_cafe_address">T-49, GF, Hauz Khas Village, New Delhi, Delhi</string>
+
+    <string name="ama_cafe">Ama Cafe</string>
+    <string name="ama_cafe_address">H no 6, New Tibetan Colony,, Majnu Ka Tilla, New Aruna Nagar, New Delhi, Delhi</string>
+
+    <string name="united_coffee_house">United Coffee House</string>
+    <string name="united_coffee_house_address"> E-15, Inner Circle, Connaught Place, New Delhi, Delhi</string>
+
+
+    <string name="cha_bar">Cha Bar</string>
+    <string name="cha_bar_address">N-81, Barakhamba Road, Block N, Cannaught Place, New Delhi</string>
+
+    <string name="cafe_turtle">Cafe Turtle</string>
+    <string name="cafe_turtle_address">23 No, 1st Floor, Khan Market, Khan Market, New Delhi</string>
+
+    <string name="cafe_lota">Cafe Lota</string>
+    <string name="cafe_lota_address">National Crafts Museum, Gate No. 2, Bhairon Marg, Pragati Maidan, New Delhi</string>
+
+    <string name="triveni_terrance">Triveni Terrance Cafe</string>
+    <string name="triveni_terrance_address">205, Tan Sen Marg, Opp. FICCI Auditorium, Mandi House, New Delhi</string>
+</resources>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sushant.tourguideapp.PlaceDetailsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/detailed_image"
+            style="@style/ImageStyle"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/detailed_image_height"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/red_fort" />
+
+        <TextView
+            android:id="@+id/detailed_name"
+            style="@style/BigTextStyle"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/list_marginLeft"
+            android:textAlignment="center"
+            tools:text="@string/red_fort" />
+
+        <TextView
+            android:id="@+id/detailed_address"
+            style="@style/DetailedTextStyle"
+            android:layout_marginTop="0dp"
+            tools:text="@string/red_fort_address" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:cardElevation="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/DetailedTextStyle"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/description"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/detailed_desc"
+                    style="@style/DetailedTextStyle"
+                    android:paddingBottom="@dimen/detailed_text_padding"
+                    android:paddingLeft="@dimen/detailed_text_padding"
+                    android:paddingRight="@dimen/detailed_text_padding"
+                    android:paddingTop="8dp"
+                    tools:text="@string/red_fort_desc" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>
